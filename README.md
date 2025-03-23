@@ -20,3 +20,7 @@
  ## **Other**
  Настроить можно через `settings.py`.
  Завершить работу программы можно по нажатию клавиши PAUSE.
+
+
+
+aimlab cheat, aimbot, hsv aimbot, python hsv, opencv-python
